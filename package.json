@@ -1,0 +1,25 @@
+{
+  "name": "playwrightstudyproject",
+  "version": "1.0.0",
+  "description": "Project about Playwright Study",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:ui": "npx playwright test --ui",
+    "test:smoke": "npx playwright test --grep @critical",
+    "report:generate": "npx allure generate ./allure-results --clean",
+    "report:open": "npx allure open ./allure-report"
+  },
+  "keywords": [],
+  "author": "Manoel Cyreno",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.48.2",
+    "@types/node": "^22.7.7",
+    "allure-commandline": "^2.30.0",
+    "allure-playwright": "^3.0.5",
+    "dotenv": "^16.4.5",
+    "gulp": "^5.0.0",
+    "nyc": "^17.1.0"
+  }
+}

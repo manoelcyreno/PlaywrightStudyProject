@@ -1,0 +1,44 @@
+<testsuites id="" name="" tests="15" failures="0" skipped="0" errors="0" time="7.1158779999999995">
+<testsuite name="example.spec.js" timestamp="2024-10-28T09:21:04.234Z" hostname="Google Chrome" tests="1" failures="0" skipped="0" time="1.626" errors="0">
+<testcase name="This is my test sample" classname="example.spec.js" time="1.626">
+</testcase>
+</testsuite>
+<testsuite name="PlaywrightWebFormTest.spec.js" timestamp="2024-10-28T09:21:04.234Z" hostname="Google Chrome" tests="4" failures="0" skipped="0" time="2.537" errors="0">
+<testcase name="Playwright Web Form Test Suite › Submit Web Form Page With Success" classname="PlaywrightWebFormTest.spec.js" time="0.874">
+</testcase>
+<testcase name="Playwright Web Form Test Suite › Validate If Disable Input Is Disabled" classname="PlaywrightWebFormTest.spec.js" time="0.572">
+</testcase>
+<testcase name="Playwright Web Form Test Suite › Validate If Readonly Input Can Not Be Editable" classname="PlaywrightWebFormTest.spec.js" time="0.581">
+</testcase>
+<testcase name="Playwright Web Form Test Suite › Validate If Web Form Page Is Accessible With Success" classname="PlaywrightWebFormTest.spec.js" time="0.51">
+</testcase>
+</testsuite>
+<testsuite name="example.spec.js" timestamp="2024-10-28T09:21:04.234Z" hostname="firefox" tests="1" failures="0" skipped="0" time="2.028" errors="0">
+<testcase name="This is my test sample" classname="example.spec.js" time="2.028">
+</testcase>
+</testsuite>
+<testsuite name="PlaywrightWebFormTest.spec.js" timestamp="2024-10-28T09:21:04.234Z" hostname="firefox" tests="4" failures="0" skipped="0" time="5.442" errors="0">
+<testcase name="Playwright Web Form Test Suite › Submit Web Form Page With Success" classname="PlaywrightWebFormTest.spec.js" time="1.963">
+</testcase>
+<testcase name="Playwright Web Form Test Suite › Validate If Disable Input Is Disabled" classname="PlaywrightWebFormTest.spec.js" time="1.501">
+</testcase>
+<testcase name="Playwright Web Form Test Suite › Validate If Readonly Input Can Not Be Editable" classname="PlaywrightWebFormTest.spec.js" time="1.421">
+</testcase>
+<testcase name="Playwright Web Form Test Suite › Validate If Web Form Page Is Accessible With Success" classname="PlaywrightWebFormTest.spec.js" time="0.557">
+</testcase>
+</testsuite>
+<testsuite name="example.spec.js" timestamp="2024-10-28T09:21:04.234Z" hostname="safari" tests="1" failures="0" skipped="0" time="1.535" errors="0">
+<testcase name="This is my test sample" classname="example.spec.js" time="1.535">
+</testcase>
+</testsuite>
+<testsuite name="PlaywrightWebFormTest.spec.js" timestamp="2024-10-28T09:21:04.234Z" hostname="safari" tests="4" failures="0" skipped="0" time="3.312" errors="0">
+<testcase name="Playwright Web Form Test Suite › Submit Web Form Page With Success" classname="PlaywrightWebFormTest.spec.js" time="1.128">
+</testcase>
+<testcase name="Playwright Web Form Test Suite › Validate If Disable Input Is Disabled" classname="PlaywrightWebFormTest.spec.js" time="0.881">
+</testcase>
+<testcase name="Playwright Web Form Test Suite › Validate If Readonly Input Can Not Be Editable" classname="PlaywrightWebFormTest.spec.js" time="0.857">
+</testcase>
+<testcase name="Playwright Web Form Test Suite › Validate If Web Form Page Is Accessible With Success" classname="PlaywrightWebFormTest.spec.js" time="0.446">
+</testcase>
+</testsuite>
+</testsuites>
