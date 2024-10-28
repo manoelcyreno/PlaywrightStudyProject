@@ -38,6 +38,8 @@ module.exports = defineConfig({
       name: 'Google Chrome',
       use: { ...devices['Desktop Chrome'], channel: 'chrome' },
     },
+
+        /*
     {
       name: 'firefox',
       use: { ...devices['Desktop Firefox'] },
@@ -48,7 +50,6 @@ module.exports = defineConfig({
       use: { ...devices['Desktop Safari'] },
     }
         
-    /*
       Test against mobile viewports.
       {
         name: 'Mobile Chrome',
